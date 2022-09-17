@@ -1,4 +1,4 @@
-<h1 align="left">Greeting 👋, I'm Jose</h1>
+<h1 align="left">Hello there 👋, I'm Jose your neighbour and friend SPiderman.</h1>
 <h3 align="left">I aspire to be a Ruby Dev with knowledge in front/back.</h3>
 
 - 🌱 I’m currently learning **Ruby**
