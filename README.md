@@ -1,4 +1,4 @@
-<h1 align="left">Hello there 👋, Jose ..</h1>
+<h1 align="left">Hello there 👋,I'm Jose ..</h1>
 <h3 align="left">Wanna get to know me ?.</h3>
 
 - 🌱 I’m currently learning **Ruby**
